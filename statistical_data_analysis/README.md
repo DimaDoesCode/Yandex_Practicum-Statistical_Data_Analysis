@@ -30,9 +30,9 @@ Table tariffs - information about tariffs:
  -minutes_included - number of included minutes of talk time per month
  -messages_included - number of included messages per month
  -mb_per_month_included - volume of included internet traffic per month (in megabytes)
- -rub_per_minute - cost of an additional minute of talk time beyond the tariff package (for example, if the tariff includes 100 minutes of talk time per month, a fee will be charged for each minute beyond that)
+ -rub_per_minute - cost of an additional minute of talk time beyond the tariff package
  -rub_per_message - cost of sending a message beyond the tariff package
- -rub_per_gb - cost of an additional gigabyte of internet traffic beyond the tariff package (1 gigabyte = 1024 megabytes)</pre>
+ -rub_per_gb - cost of an additional gigabyte of internet traffic beyond the tariff package</pre>
 
 ## Task
 Preliminary analysis of tariffs on a small sample of clients.
