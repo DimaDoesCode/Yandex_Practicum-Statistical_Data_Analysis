@@ -1,6 +1,6 @@
 # Statistical Data Analysis
 ## Data
-The following data is available:
+The following data is available:<br>
 Table users - information about users:
 <pre> -user_id - unique user identifier
  -first_name - user's first name
