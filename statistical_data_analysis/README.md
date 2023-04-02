@@ -37,5 +37,7 @@ Table tariffs - information about tariffs:
 ## Task
 Preliminary analysis of tariffs on a small sample of clients.
 
+<a href="https://github.com/DimaDoesCode/Yandex_Practicum-Statistical_Data_Analysis/blob/master/statistical_data_analysis/Project%20Statistical%20data%20analysis.ipynb">To view the Jupyter Notebook code of the research, click on this link.</a>
+
 ## Libraries used
 <i>pandas, numpy, seaborn, matplotlib.pyplot, scipy</i>
